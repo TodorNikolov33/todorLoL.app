@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: 0;
+}
+
+body {
+	background-color: #dfffd6;
+}
+
+.navbar-nav {
+	flex-wrap: nowrap;
+}
+.dropdown-menu {
+	position: absolute;
+	transform: translate(0, 100%);
+}
